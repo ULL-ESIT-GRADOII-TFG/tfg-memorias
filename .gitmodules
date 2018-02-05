@@ -1,3 +1,6 @@
 [submodule "markdown"]
 	path = markdown
 	url = git@github.com:ULL-ESIT-GRADOII-TFG/memoria-tfg-markdown-gitbook.git
+[submodule "tfg-evaluacion"]
+	path = tfg-evaluacion
+	url = https://github.com/ULL-ESIT-GRADOII-TFG/evaluacion.git
